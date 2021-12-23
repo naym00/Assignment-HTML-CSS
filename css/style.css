@@ -3,5 +3,26 @@
 }
 
 .margin_for_cover {
-    margin-top: 5%;
+    margin-top: 15%;
 }
+.margin_middle {
+    position: relative;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
+
+.right {
+    text-align: right;
+  } 
+
+.left {
+    text-align: left;
+    padding-left: 25px;
+  } 
+
+.footer_background_color {
+    background-color: #f8f4f4;
+}
+  
